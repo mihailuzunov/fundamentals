@@ -14,4 +14,4 @@ if count_A < 7 or count_B < 7:
     print("Game was terminated")
 
 
-
+#test
